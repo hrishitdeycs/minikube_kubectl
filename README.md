@@ -93,4 +93,6 @@ kubectl proxy --address='0.0.0.0' --disable-filter=true &
 ```bash
 http://server_ip:8001/api/v1/namespaces/kubernetes-dashboard/services/http:kubernetes-dashboard:/proxy/
 ```
+![Screenshot (2)](https://github.com/user-attachments/assets/e90f73f3-5dac-4231-84cd-258fbe1c2332)
+
 ### 23.On the instance dashboard click on terminate running instance  
